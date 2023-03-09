@@ -1,3 +1,4 @@
+/*
 const { Schema, model } = require('mongoose');
 const bcrypt = require('bcrypt');
 
@@ -55,3 +56,4 @@ userSchema.virtual('bookCount').get(function () {
 const User = model('User', userSchema);
 
 module.exports = User;
+*/
